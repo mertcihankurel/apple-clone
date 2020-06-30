@@ -17,7 +17,7 @@ nav {
   width: 75%;
   height: 7%;
   text-align: center;
-  margin: 0 200px 200px; 
+  margin: 0 200px 200px;
   position: relative;
   top: 84px;
 }
@@ -61,7 +61,7 @@ nav ul input {
   top: 0;
   left: 25px;
   font-size: smaller;
-  color: white; 
+  color: white;
 }
 
 .apple {
