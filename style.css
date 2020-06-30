@@ -34,23 +34,21 @@ aside ul img {
   border-radius: 49%;
 }
 
-.wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  
+footer {
+  color: #6e6e6e;
+  padding: 20px 0;
+  width: 73%;
+  margin: 0 auto;
+  font-size: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 25px;
 }
 
 footer a {
-  font-size: 10px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-decoration: none;
   color: #0088cc
 }
 
-footer p {
-  font-size: 10px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.rightpart {
+  float: right;
 }
-
-
