@@ -20,7 +20,10 @@ nav {
   margin: 0 200px 200px; 
   position: relative;
   top: 84px;
+}
 
+ul li {
+  list-style: none;
 }
 
 nav ul li {
@@ -28,6 +31,15 @@ nav ul li {
   color: white;
   padding: 8px 0;
   border-right: 1px solid #3f3d3d;
+}
+
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
+ul li a {
+  text-decoration: none;
 }
 
 nav ul li a {
@@ -78,6 +90,17 @@ nav ul input {
   line-height: 12px;
 }
 
+.rightpart {
+  float: right;
+  position: relative;
+  bottom: 24px;
+}
+
+.privacy a {
+  padding: 0 4px;
+  border-right: 1px solid #a4a7a7 ;
+}
+
 .text a:hover {
   text-decoration: underline;
 }
@@ -86,17 +109,8 @@ nav ul li:hover {
   background-color: rgb(59, 58, 58);
 }
 
-
 ul {
   display: flex;
-}
-
-ul li {
-  list-style: none;
-}
-
-ul li a {
-  text-decoration: none;
 }
 
 aside ul img {
@@ -120,17 +134,6 @@ footer {
   line-height: 25px;
 }
 
-footer a {
-  text-decoration: none;
-  color: #0088cc
-}
-
-.rightpart {
-  float: right;
-  position: relative;
-  bottom: 24px;
-}
-
 .rightpart a {
   padding: 0 4px;
   border-right: 1px solid #a4a7a7;
@@ -138,11 +141,6 @@ footer a {
 
 .rightpart a:hover {
   text-decoration: underline;
-}
-
-.privacy a {
-  padding: 0 4px;
-  border-right: 1px solid #a4a7a7 ;
 }
 
 .privacy a:hover {
