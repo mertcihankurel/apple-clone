@@ -20,6 +20,7 @@ nav {
   margin: 0 200px 200px; 
   position: relative;
   top: 84px;
+  
 }
 
 ul li {
@@ -62,6 +63,7 @@ nav ul input {
   left: 25px;
   font-size: smaller;
   color: white; 
+
 }
 
 .apple {
@@ -98,7 +100,12 @@ nav ul input {
 
 .privacy a {
   padding: 0 4px;
-  border-right: 1px solid #a4a7a7 ;
+  border-right: 1px solid #a4a7a7;
+}
+
+.rightpart a {
+  padding: 0 4px;
+  border-right: 1px solid #a4a7a7;
 }
 
 .text a:hover {
@@ -132,11 +139,6 @@ footer {
   font-size: 9px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 25px;
-}
-
-.rightpart a {
-  padding: 0 4px;
-  border-right: 1px solid #a4a7a7;
 }
 
 .rightpart a:hover {
