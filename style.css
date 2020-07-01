@@ -12,7 +12,7 @@ header {
 }
 
 nav {
-  background: #333 linear-gradient(180deg, #999, #333);
+  background: #333 linear-gradient(#858585, #6B6B6B, #858585);
   border-radius: 5px;
   width: 78%;
   height: 7%;
@@ -125,6 +125,10 @@ ul {
 aside ul img {
   width: 100%;
   margin: 2px;
+}
+
+aside ul li {
+  width: 25%;
 }
 
 .right-flag img {
