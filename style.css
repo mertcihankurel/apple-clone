@@ -12,7 +12,7 @@ header {
 }
 
 nav {
-  background: #333 linear-gradient(#858585, #6B6B6B, #858585);
+  background: #333 linear-gradient(#858585, #6b6b6b, #858585);
   border-radius: 5px;
   width: 78%;
   height: 7%;
@@ -53,7 +53,7 @@ nav ul input {
   width: 92px;
   height: 20px;
   border-radius: 10px;
-  background: #333 linear-gradient(#858585, #6B6B6B, #858585);
+  background: #333 linear-gradient(#858585, #6b6b6b, #858585);
 }
 
 #search {
@@ -110,6 +110,10 @@ nav ul input {
   border-right: 1px solid #a4a7a7;
 }
 
+aside ul li {
+  width: 25%;
+}
+
 .text a:hover {
   text-decoration: underline;
 }
@@ -125,10 +129,6 @@ ul {
 aside ul img {
   width: 100%;
   margin: 2px;
-}
-
-aside ul li {
-  width: 25%;
 }
 
 .right-flag img {
