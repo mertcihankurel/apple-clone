@@ -13,7 +13,7 @@ This project contains linear gradients, floating and positioning elements
 
 ## Live Demo
 
-[Live](https://rawcdn.githack.com/mcihadkurel/apple-clone/1ed673d1d81ecededea0154a566a1d7eef29b919/index.html)
+[Live](https://rawcdn.githack.com/mcihadkurel/apple-clone/8f4dcdabfa14acc75be3861c6a885ec01ccef9a8/index.html)
 
 
 👤 **Author**
