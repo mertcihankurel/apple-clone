@@ -53,7 +53,7 @@ nav ul input {
   width: 92px;
   height: 20px;
   border-radius: 10px;
-  background: #333 linear-gradient(180deg, #999, #333);
+  background: #333 linear-gradient(#858585, #6B6B6B, #858585);
 }
 
 #search {
